@@ -1,0 +1,41 @@
+{
+  "name": {
+    "message": "Tabulence"
+  },
+  "description": {
+    "message": "Adds awareness of the last tab and provides additional safeguards when closing tabs."
+  },
+  "closeCommand": {
+    "message": "Close the current tab"
+  },
+  "closeUnassigned": {
+    "message": "You must assign a keyboard shortcut to use these options."
+  },
+  "closeShortcut": {
+    "message": "Assigned Keyboard Shortcut"
+  },
+  "closeShortcutHelp": {
+    "message": "Assign a keyboard shortcut to close tabs based on the enabled options."
+  },
+  "closeConfigure": {
+    "message": "Assign"
+  },
+  "closePinned": {
+    "message": "Prevent closing pinned tabs"
+  },
+  "closePinnedHelp": {
+    "message": "When enabled, pinned tabs will not be closed when using the keyboard shortcut to close tabs."
+  },
+  "closeGrouped": {
+    "message": "Prevent closing tabs within groups"
+  },
+  "closeGroupedHelp": {
+    "message": "When enabled, grouped tabs will not be closed when using the keyboard shortcut to close tabs."
+  },
+  "closeEmpty": {
+    "message": "Prevent closing empty new tabs"
+  },
+  "closeEmptyHelp": {
+    "message": "When enabled, empty new tabs will not be automatically closed when another tab is created."
+  }
+}
